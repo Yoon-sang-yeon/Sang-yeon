@@ -1,4 +1,4 @@
-# 이력서
+# 상상 이력서
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 ![contributor](https://img.shields.io/github/contributors/JSpiner/RESUME.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/JSpiner/RESUME.svg)
@@ -7,11 +7,8 @@
 ## 소개
 ![프로필이미지](https://github.com/JSpiner/RESUME/raw/master/images/profile.jpeg)
 - 이름: 윤상연
-- 군필여부: 공군 821기 
-- 취미: 
 - Email: kpsysy2@gmail.com
 - GitHub: [github.com/Yoon-sang-yeon](https://github.com/Yoon-sang-yeon)
-- LinkedIn: [linkedin.com/in/jspiner](https://linkedin.com/in/jspiner)
 
 ```
 엔지니어로 살아가면서, 올바름을 추구하는걸 가장 큰 가치로 여기고 있습니다.
@@ -25,12 +22,13 @@
 <img src = "https://github.com/JSpiner/RESUME/raw/master/images/engineering_ladders.png" width="480" />
 
 ## 회사경력
-- [카카오 모빌리티](https://www.kakaomobility.com/) (2021 ~ 현재)
-- [스타일쉐어](https://stylesha.re) (2020 ~ 2021)
-- [리디주식회사](https://www.ridicorp.com/)(2018 ~ 2020)
-- [피알앤디컴퍼니](http://prnd.co.kr)(2017 ~ 2018) 
-- 프리랜서(2014 ~ 2016)
+- [한전전력공사 인턴](https://www.catch.co.kr/NCS/RecruitInfoDetails/374739/) (2024.03 ~ 2024.06)
+- [인천교통공사 인턴]
+전기 설비 유지 및 관리 보조
+전력 시스템의 신뢰성 분석 및 개선 방안 제안
+전력 계통 보호 및 제어 시스템의 기본적인 이해 및 실습
 
+- 
 ## 대외활동
 - [ifkakao 2022 발표](https://www.youtube.com/watch?v=YXi0eipXBKk) - CI & Remote Build (2022)
 - 네이버 부스트캠프 코드 리뷰어(2021)
@@ -40,8 +38,8 @@
 - 삼성소프트웨어멤버십 주니어 1기(2014)
 
 ## 학력
-- 세종대학교 컴퓨터공학과 3학년 휴학(2015 입학)
-- 한국디지털미디어고등학교 해킹방어과 졸업(2012 ~ 2014)
+- 광운대학교 전기공학과 졸업(2020 ~ 2026)
+- Liceo Elbio Fernández 고등학교 졸업(2017 ~ 2019)
 
 ## 오픈소스 기여
 
