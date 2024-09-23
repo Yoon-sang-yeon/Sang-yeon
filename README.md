@@ -16,14 +16,17 @@
 ```
 
 ![깃허브](https://github.com/JSpiner/RESUME/raw/master/images/github.png)
+## 학력
+- 광운대학교 전기공학과 졸업 (2020 ~ 2026)
+- Liceo Elbio Fernández 고등학교 졸업 (2017 ~ 2019)
 
 ## 회사경력
-- [한전전력공사 인턴](https://www.catch.co.kr/NCS/RecruitInfoDetails/374739/) (2024.03 - 2024.06)
+### [한전전력공사 인턴](https://www.catch.co.kr/NCS/RecruitInfoDetails/374739/) (2024.03 - 2024.06)
 - 전력 설비 점검 및 유지 보수 참여
 - 스마트 그리드 및 신재생 에너지 시스템에 대한 기초 실습
 - 전력 변환 장치 및 보호 계통 설계 보조
 - 에너지 효율성을 위한 전력 데이터 분석 및 개선안 제시
-- [인천교통공사 인턴](https://www.ictr.or.kr/main/bbs/bbsMsgDetail.do?msg_seq=594&bcd=hire) (2024.08 - 2024.09)
+## [인천교통공사 인턴](https://www.ictr.or.kr/main/bbs/bbsMsgDetail.do?msg_seq=594&bcd=hire) (2024.08 - 2024.09)
 - 전기 설비 유지 및 관리 보조
 - 전력 시스템의 신뢰성 분석 및 개선 방안 제안
 - 전력 계통 보호 및 제어 시스템의 기본적인 이해 및 실습
@@ -33,9 +36,6 @@
 - 전기공학과 현장견학 (2024.05) [한국전력공사 인재개발원](https://pelab.kw.ac.kr/?module=Board&action=SiteBoard&sMode=VIEW_FORM&iBrdNo=16&iBrdContNo=61&sBrdContRe=0&sSearchField=&sSearchValue=&CurrentPage=1)
 - 전기공학 학회 활동 (2024.09) [대한전기학회](https://www.kiee.or.kr/board/?_0000_method=view&ncode=a013&num=2418)
 - 전기기사 스터디 그룹 운영 (2024.12 - 2025.09)
-## 학력
-- 광운대학교 전기공학과 졸업(2020 ~ 2026)
-- Liceo Elbio Fernández 고등학교 졸업(2017 ~ 2019)
 
 ## 자격증 및 수료 과정
 - 2025.06 전기기사 자격증 취득
