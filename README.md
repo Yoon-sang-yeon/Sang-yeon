@@ -11,6 +11,7 @@
 ```
 ## 학력
 - 광운대학교 전기공학과 졸업 (2020 ~ 2026)
+- El Elbio Fernández 고등학교 졸업 (2017 ~ 2020)
 
 ## 회사경력
 ### [한전전력공사 인턴](https://www.catch.co.kr/NCS/RecruitInfoDetails/374739/) (2024.03 - 2024.06)
