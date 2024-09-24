@@ -1,24 +1,16 @@
 # 상상 이력서
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-![contributor](https://img.shields.io/github/contributors/JSpiner/RESUME.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/JSpiner/RESUME.svg)
-![status](https://img.shields.io/badge/offer_welcome-brightgreen.svg)
 
 ## 소개
-![프로필이미지]()
 - 이름: 윤상연
 - Phone: +82-10-1234-5678
 - Email: kpsysy2@gmail.com
 - GitHub: [github.com/Yoon-sang-yeon](https://github.com/Yoon-sang-yeon)
 
 ```
-엔지니어로 살아가면서, 올바름을 추구하는걸 가장 큰 가치로 여기고 있습니다.
+어떤 어려움에도 포기하지 않는 문제 해결사
 ```
-
-![깃허브](https://github.com/JSpiner/RESUME/raw/master/images/github.png)
 ## 학력
 - 광운대학교 전기공학과 졸업 (2020 ~ 2026)
-- Liceo Elbio Fernández 고등학교 졸업 (2017 ~ 2019)
 
 ## 회사경력
 ### [한전전력공사 인턴](https://www.catch.co.kr/NCS/RecruitInfoDetails/374739/) (2024.03 - 2024.06)
@@ -72,7 +64,6 @@
 - 참여 인원: 5명
 
 ## 수상 경력
-
 
 ### 교내 공학 경진대회
 - 프로젝트 주제: 에너지 효율 개선을 위한 태양광 발전 시스템
